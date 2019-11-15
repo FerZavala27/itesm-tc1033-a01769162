@@ -27,4 +27,4 @@ with open ("datos_vuelos.csv", "r") as archivo:
                 f.write(mes+","+pais+","+str(por)+"\n")
     f.close()
         
-
+#prueba
